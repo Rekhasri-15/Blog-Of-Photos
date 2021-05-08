@@ -1,0 +1,15 @@
+body {
+    background-color: crimson;
+    font-size: 90px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.img {
+    height: 50px;
+    width: 60px;
+    border-top: 50px;
+    border-left: 30px;
+    border-right: 30px;
+    border-bottom: 50px;
+}
